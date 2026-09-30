@@ -128,6 +128,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-tastypie](https://github.com/django-tastypie/django-tastypie) - Creating delicious APIs for Django apps since 2010.
 - [drf-spectacular](https://github.com/tfranzel/drf-spectacular) - Sane and flexible OpenAPI 3 schema generation for Django REST framework.
 - [django-webhook](https://github.com/danihodovic/django-webhook) - A plug-and-play Django app for sending outgoing webhooks on model changes.
+- [django-tenant-apikeys](https://github.com/stackadnan/django-tenant-apikeys) - Multi-tenant API key authentication for Django with scopes, IP/CIDR allowlists, rate limiting, key rotation, and DRF/Django Ninja support.
 <!--lint enable double-link-->
 
 ### Async
